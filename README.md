@@ -15,3 +15,10 @@ that are called in the other scripts presented here.
 ## OzDES_Plotting.py
 This code specifically contains the functions which makes plots with
 legible axis labels that are uniform.
+
+## features.py
+This code will look at a light curve and try to identify features which
+will make it easier to recover a lag with reverberation mapping.  It
+will look for significant jumps between observing seasons as well as
+places where the slope of a best fit line between seasonal means changes
+directions.

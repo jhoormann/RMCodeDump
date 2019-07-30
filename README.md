@@ -22,3 +22,10 @@ will make it easier to recover a lag with reverberation mapping.  It
 will look for significant jumps between observing seasons as well as
 places where the slope of a best fit line between seasonal means changes
 directions.
+
+## makeClassificationStats.py
+This code will take photometric data and uncalibrated light curves and 
+create a table of flux/magnitudes, SNR, variation for each observation
+of a band/emission line.  I originally used this create a table to
+create a classifier to determine if a spectrum was good or bad and 
+should be included in the coadd.

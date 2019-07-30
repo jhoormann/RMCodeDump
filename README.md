@@ -38,3 +38,8 @@ this code is the 'plot' flag, where it will plot the spectra for all
 exposures taken during an observing run and you can indicate via 
 command line prompts which spectra have problems.  The list of 
 problematic extensions are saved to a text file.
+
+## civPaperFigures.py
+This is the code that I used to generate all of the figures and 
+machine readable tables in the
+[OzDES Y4 CIV paper](https://arxiv.org/abs/1902.04206).

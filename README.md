@@ -1,7 +1,7 @@
 # RMCodeDump
 In this repository I will put all the random bits of code that I wrote
 while developing the OzDES RM code that didn't make it into the final
-pipeline but will hopefully be useful to someone else.
+pipelines ([OzDES_calibSpec](https://github.com/jhoormann/OzDES_calibSpec), [OzDES_getPhoto](https://github.com/jhoormann/OzDES_getPhoto), and [OzDES_makeLC](https://github.com/jhoormann/OzDES_makeLC)) but will hopefully be useful to someone else.
 
 # Files
 Here are brief descriptions of all the codes contained in this

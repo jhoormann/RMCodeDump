@@ -47,4 +47,10 @@ machine readable tables in the
 ## RL-fitting.py
 Here is the code that I used to find the best fit line to the lag/luminosity 
 data to get an R-L relationship.  To take into account errors in both 
-measurements I made use of this [publicly available BCES code.](https://github.com/rsnemmen/BCES) 
+measurements I made use of this 
+[publicly available BCES code.](https://github.com/rsnemmen/BCES) 
+
+## OzDES_class.ipynb
+Using the tables generated using makeClassificationStats.py and classifySpec.py 
+I used decision trees and a random forests to make a classifier to determine 
+wheter or not a spectrum is of good quality.

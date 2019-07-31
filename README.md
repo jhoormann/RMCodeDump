@@ -54,3 +54,9 @@ measurements I made use of this
 Using the tables generated using makeClassificationStats.py and classifySpec.py 
 I used decision trees and a random forests to make a classifier to determine 
 wheter or not a spectrum is of good quality.
+
+## mockAGN.py
+Sometimes you may want to test your line flux techniques on a spectrum 
+where you know what the values should be.  This is a short code to help 
+you make a mock AGN spectrum where the individual components are known 
+exactly.

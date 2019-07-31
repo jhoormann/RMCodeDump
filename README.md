@@ -43,3 +43,8 @@ problematic extensions are saved to a text file.
 This is the code that I used to generate all of the figures and 
 machine readable tables in the
 [OzDES Y4 CIV paper](https://arxiv.org/abs/1902.04206).
+
+## RL-fitting.py
+Here is the code that I used to find the best fit line to the lag/luminosity 
+data to get an R-L relationship.  To take into account errors in both 
+measurements I made use of this [publicly available BCES code.](https://github.com/rsnemmen/BCES) 

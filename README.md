@@ -60,3 +60,6 @@ Sometimes you may want to test your line flux techniques on a spectrum
 where you know what the values should be.  This is a short code to help 
 you make a mock AGN spectrum where the individual components are known 
 exactly.
+
+## surveycomp.py
+This is the code I got from Paul to make the lag versus redshift plots.
